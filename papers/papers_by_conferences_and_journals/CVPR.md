@@ -1,3 +1,6 @@
+## 2020
+
+
 ## 2019
 **Shape Robust Text Detection with Progressive Scale Expansion Network**  
 Wenhai Wang, Enze Xie, Xiang Li, Wenbo Hou, Tong Lu, Gang Yu, Shuai Shao  
